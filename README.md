@@ -1,0 +1,30 @@
+# KBN-Preprocessing-clinical-information-data
+
+가톨릭대학교 산학협력단 한국인체자원은행네트워크 임상정보 데이터 전처리 프로젝트
+
+
+## 1. ㅇㅇ
+## 2. 한국인체자원은행네트워크(KBN) 임상정보데이터 전처리 고도화
+* 과업 개요
+  * KBN 임상정보데이터 전처리 및 통계 고도화
+  * 임상데이터 플랫폼 웹 개발
+* 과업 기간
+  * 023. 08.  ~ 2023. 11
+* 과업 세부 내용
+
+| 구분 | 번호 | 요구사항명 |
+|------|------|------------|
+| 기능 요구사항 (System Functional Requirement) | SFR-001 | 신규 분양데이터 전처리 개발 |
+| | SFR-002 | 전처리 고도화 |
+| | SFR-003 | 기초통계 고도화 |
+| | SFR-004 | 임상데이터 플랫폼 웹 개발 |
+| 테스트 요구사항 (Test Requirement) | TER-001 | 테스트 방안 및 테스트 수행 |
+| | TER-002 | 인수(승인) 검사 |
+| 보안 요구사항 (Security Requirement) | SER-001 | 공통(책임 및 보안) |
+| 제약사항 (Constraint Requirement) | COR-001 | 제약사항 |
+| 프로젝트 관리 요구사항 (Project Management Requirement) | PMR-001 | 산출물 관리 및 검수 |
+| | PMR-002 | 사업 수행 조직의 구성(컨소시엄 및 하도급) |
+| | PMR-003 | 위험 관리 |
+| 프로젝트 지원 요구사항 (Project Support Requirement) | PSR-001 | 하자보수 지원 |
+| | PSR-002 | 장애복구 지원 |
+
