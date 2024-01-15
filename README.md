@@ -34,10 +34,6 @@
 * **기여 파트**
   * MVC 패턴의 로직 설계
   * 과업 내용 1, 2, 3, 4, 5파트 참여
-![image](https://github.com/helperjby/Project-KBN-Preprocessing-clinical-information-data/assets/69462995/3c6e6d0b-fd69-44b5-a776-fe7faca659d3)
-
-
-
 
 ## 2. 한국인체자원은행네트워크(KBN) 임상정보데이터 전처리 고도화
 * **과업 개요**
