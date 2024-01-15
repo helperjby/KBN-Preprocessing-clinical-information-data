@@ -54,3 +54,4 @@
 | 프로젝트 지원 요구사항 (Project Support Requirement) | PSR-001 | 하자보수 지원 |
 | | PSR-002 | 장애복구 지원 |
 
+![image](https://github.com/helperjby/Project-KBN-Preprocessing-clinical-information-data/assets/69462995/5db3b6b5-6237-4fe2-b9da-881a62bb0710)
